@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--xtools2_universal_type_manager-->
-<core:topology xmlns:core="http://www.ibm.com/ccl/soa/deploy/core/1.0.0/" uuid="_BKsAQWdaEeOXdo0JwAD0pg" description="Created on Tuesday, December 17, 2013 9:29:32 PM WAT" displayName="La_centrale" name="La_centrale" decoratorSemantic="com.ibm.ccl.soa.deploy.core.bads">
-  <core:contract.explicit uuid="_BKtOYGdaEeOXdo0JwAD0pg" displayName="Make All Units Public-Editable By Default" name="ExplicitContract_207430" defaultConceptualPolicy="public_editable" defaultPolicy="public_editable"/>
-</core:topology>
